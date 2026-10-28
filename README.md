@@ -184,7 +184,7 @@ Setelah proses build cloud selesai, kamu akan mendapatkan tautan unduhan langsun
 
 ---
 
-## 🤝 Kontribusi
+## 🤝 Kontribusi & Acknowledgments
 
 Kontribusi, kritik, dan saran selalu terbuka lebar!
 1. Fork repository ini
@@ -192,6 +192,8 @@ Kontribusi, kritik, dan saran selalu terbuka lebar!
 3. Commit perubahanmu (`git commit -m 'feat: menambahkan fitur keren'`)
 4. Push ke branch (`git push origin feature/FiturKeren`)
 5. Buka sebuah **Pull Request**
+
+> 💡 **Pair Programming:** Arsitektur dan implementasi kode aplikasi ini dikembangkan melalui kolaborasi pair programming bersama **Gemini** (Google DeepMind) via **Antigravity IDE**.
 
 ---
 
@@ -202,5 +204,6 @@ Didistribusikan di bawah Lisensi **MIT**. Lihat berkas [LICENSE](LICENSE) untuk 
 ---
 
 <div align="center">
-  Dibuat dengan ❤️ untuk membantu mengelola uang harian dengan jujur, tenang, dan teratur.
+  Dibuat dengan ❤️ untuk membantu mengelola uang harian dengan jujur, tenang, dan teratur.<br/>
+  <sub>Dikembangkan bersama Google Gemini via Antigravity IDE.</sub>
 </div>
