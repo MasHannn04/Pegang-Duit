@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pegang-duit",
+    "name": "Pegang Duit",
     "slug": "pegang-duit",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,6 +10,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.hanif.pegangduit",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -20,6 +21,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-sharing"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0f68fd55-32de-4b63-9735-a3d197e70696"
+      }
     }
   }
 }
